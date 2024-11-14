@@ -13,4 +13,4 @@
 - Parks: https://data.wprdc.org/dataset/parks
 
 ## Summary
-In order to find the "best" neighborhood in Pittsburgh, we ranked each of our individual metrics and combined them together in the final Jupyter Notebook to determine the best "neighborhood". The conclusion of the "best neighborhood" can be found in the final jupyter notebook.
+In order to find the "best" neighborhood in Pittsburgh, we combined datasets, each relating to a public service, to determine the best "neighborhood". The conclusion of the "best neighborhood" can be found in the final jupyter notebook.
